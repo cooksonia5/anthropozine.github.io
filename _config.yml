@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: Anthropozine
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Anthropozine
+  email: anthropozinenyu@gmail.com
+description: "environmental zine and media collective @ NYU"
 
 # Build settings
 remote_theme: jekyll/minima
