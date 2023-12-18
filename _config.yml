@@ -6,7 +6,6 @@ author:
 description: "environmental zine and media collective @ NYU"
 
 # Build settings
-remote_theme: jekyll/minima
 ---
 # a comment 
 example_key: example value
