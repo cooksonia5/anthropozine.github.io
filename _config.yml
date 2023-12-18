@@ -8,6 +8,11 @@ description: "Great site about Jekyll on GH-Pages."
 # Build settings
 remote_theme: jekyll/minima
 
+---
+# a comment 
+example_key: example value
+---
+
 # Where things are
 source              : .
 destination         : ./_site
