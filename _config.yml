@@ -4,9 +4,10 @@ author:
   name: Evan Will
   email: your-email@domain.com
 description: "Great site about Jekyll on GH-Pages."
+theme: jekyll-theme-minimal
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minimal
 
 ---
 # a comment 
